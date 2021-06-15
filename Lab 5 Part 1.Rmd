@@ -1,6 +1,7 @@
 ---
 title: "Lab 5 Part 1"
-output: html_document
+author: "Anthony Purvis"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
