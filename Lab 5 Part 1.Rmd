@@ -1,9 +1,7 @@
 ---
 title: "Lab 5 Part 1"
 author: "Anthony Purvis"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
